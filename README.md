@@ -2,9 +2,12 @@
 ---
 
 ## **AURORA BANKING – CUSTOMER & REVENUE ANALYSIS**
+### **Techstack**
+* PowerBI: Data Modeling, Data Visualization, Interactive Dashboard
+* Power Query: Data Cleaning
 
+---
 ### **Key Findings**
-
 * **Low Activation Rate (~7–8%)** → phần lớn khách hàng chưa phát sinh giao dịch
 * **>50% giao dịch là Low Value** → doanh thu trên mỗi giao dịch thấp
 * **Debit usage chiếm ưu thế** → chưa khai thác được nguồn thu từ Credit
